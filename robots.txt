@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.winterclass.cn/sitemap.xml
